@@ -1,1 +1,3 @@
-# and_the_oscar_goes_to
+Como primer proyecto de Data Science he planteado un Exploratory Data Analysis en el que parto de un dataset con todas las nominaciones de la historia de los oscars.
+
+A partir de estos datos he extraido más información gracias a la API de TMDB (The Movie DataBase) y la bilbioteca de python de IMDB y he utilizado herramientas de visualización de datos para analizar las tendencias y las correlaciones que marcan la diferencia entre ganar un oscar a la mejor película o quedarse con una nominación.
